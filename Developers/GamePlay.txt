@@ -1,0 +1,29 @@
+
+Core: Je controleert een character op het speelveld.
+	-Het character maakt/upgrade/repareert de torens op het veld.
+
+-Player loopt op dezelfde area's als enemy's en kan door zogenaamde "poorten" gaan
+	-Enemy's kunnen niet door deze poorten.
+	(hiermee kan je afgebakende gebieden maken waar alleen de speler kan komen)
+
+-Player krijgt een menu aan de zijkant als hij op een toren clikt
+	-Vanaf dit menu zie je informatie over de toren, en kan je hem ook upgraden.
+		-Het kost Resources om een toren te upgraden.
+		-Enemy's droppen resources + een bonus na elk lvl/stage.
+		(mogelijk verschillende resources voor verschillende upgrades)
+		
+
+-Player kan alleen lopen en upgraden, hij heeft geen zelf verdedeging.
+	-als de player te vaak door een enemy word geraakt dan gaat hij dood.
+	(speler word geraakt op contact, gaan niet actief de speler aanvallen.
+		-Player respawnt na een korte tijd, en met de helft van zijn resources weg.
+
+-Om een toren te plaatsen drukt de speler op de "build mode" knop, 
+ waarna hij een outline ziet van een bij zijn muis.
+	-Speler en muis kunnen bewegen en de outline verplaats steeds mee.
+	-Speler kan dan op de "bouw" knop drukken om de toren neer te zetten.
+	(Mogelijk kan er gescrolled worden tijdens "build mode" om andere objecten neer te selecteren
+		Gate's, walls, teleporters?, ect) 
+
+
+

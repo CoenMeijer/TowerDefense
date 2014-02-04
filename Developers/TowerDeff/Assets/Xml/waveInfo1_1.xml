@@ -1,0 +1,23 @@
+<waves>
+	<wave>
+		<creepcount>8</creepcount>
+		<spawndelay>3</spawndelay>
+		<dropvalue>15</dropvalue>
+		<framesperwaypoint>45</framesperwaypoint>
+		<health>7</health>
+	</wave>
+	<wave>
+		<creepcount>10</creepcount>
+		<spawndelay>2</spawndelay>
+		<dropvalue>15</dropvalue>
+		<framesperwaypoint>30</framesperwaypoint>
+		<health>7</health>
+	</wave>
+	<wave>
+		<creepcount>14</creepcount>
+		<spawndelay>1</spawndelay>
+		<dropvalue>15</dropvalue>
+		<framesperwaypoint>50</framesperwaypoint>
+		<health>18</health>
+	</wave>
+</waves>
